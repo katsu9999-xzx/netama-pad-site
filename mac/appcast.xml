@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>NetamaPad for Mac</title>
+    <item>
+      <title>NetamaPad 1.0.2</title>
+      <pubDate>Thu, 15 Oct 2026 13:20:55 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/katsu9999-xzx/netama-pad-site/releases/download/v1.0.2/NetamaPad.dmg" type="application/octet-stream" sparkle:edSignature="exU8rGQXybiD8nOSmziv0TO0YNNc/vK0T2vxiGZm5+HXccSE6+i0Pkd0RFYHaZes+6nDCHwDCgSH9XR+zGN0CQ==" length="3211921" />
+    </item>
+  </channel>
+</rss>
